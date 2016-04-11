@@ -7,6 +7,9 @@ It is run just before loading the document.
 If it detects the `?trk=` in the URL on
 [LinkedIn](https://www.linkedin.com/), it removes the tracking query string.
 
+Script page:
+https://greasyfork.org/en/scripts/18695-linkedin-clean-url
+
 
 ### Example
 
