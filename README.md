@@ -10,6 +10,8 @@ If it detects the `?trk=` in the URL on
 Script page:
 https://greasyfork.org/en/scripts/18695-linkedin-clean-url
 
+![](https://cloud.githubusercontent.com/assets/2071639/14470341/9e9511e0-00f1-11e6-9597-5188737c4df0.gif)
+
 
 ### Example
 
